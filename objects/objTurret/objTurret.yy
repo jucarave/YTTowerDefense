@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "sprSoldier",
-    "path": "sprites/sprSoldier/sprSoldier.yy",
+    "name": "sprTurret1",
+    "path": "sprites/sprTurret1/sprTurret1.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "objEnemy",
-    "path": "objects/objEnemy/objEnemy.yy",
+    "name": "objTower",
+    "path": "objects/objTower/objTower.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -24,16 +24,18 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Enemies.yy",
+    "name": "Towers",
+    "path": "folders/Objects/Towers.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objSoldier",
+  "name": "objTurret",
   "tags": [],
   "resourceType": "GMObject",
 }
