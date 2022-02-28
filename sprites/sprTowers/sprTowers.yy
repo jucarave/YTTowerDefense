@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sprTowers","path":"sprites/sprTowers/sprTowers.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sprTowers",
     "tags": [],
     "resourceType": "GMSequence",

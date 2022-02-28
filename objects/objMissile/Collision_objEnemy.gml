@@ -1,2 +1,7 @@
 instance_destroy();
-instance_destroy(other);
+
+other.hp -= dmg;
+if (other.hp <= 0) {
+	instance_destroy(other);
+	objLevel.money += other.money;
+}

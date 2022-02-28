@@ -5,3 +5,5 @@ path1 = path_add();
 mp_grid_path(grid,path1,1440,224,224,-32,false);
 
 alarm[0] = 50;
+
+money = 600;

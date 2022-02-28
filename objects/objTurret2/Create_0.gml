@@ -1,0 +1,1 @@
+firingFrequency = 0;

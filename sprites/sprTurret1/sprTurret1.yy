@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sprTurret1","path":"sprites/sprTurret1/sprTurret1.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sprTurret1",
     "tags": [],
     "resourceType": "GMSequence",
