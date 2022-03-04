@@ -1,3 +1,5 @@
+if (objLevel.hp <= 0) { exit; }
+
 var enemy = instance_nearest(x, y, objEnemy);
 
 if (enemy && point_distance(x, y, enemy.x, enemy.y) < 128) {

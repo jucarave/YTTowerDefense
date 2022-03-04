@@ -1,3 +1,5 @@
+if (objLevel.hp <= 0) { exit; }
+
 var _x = floor(mouse_x / 64) * 64 + 32;
 var _y = floor(mouse_y / 64) * 64 + 32;
 
